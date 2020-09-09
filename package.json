@@ -17,7 +17,7 @@
     "moment": "^2.24.0",
     "string-argv": "^0.3.0",
     "winston": "^3.2.1",
-    "yargs-parser": "^13.1.0",
+    "yargs-parser": "^13.1.2",
     "ytdl-core": "^0.29.2"
   },
   "devDependencies": {
